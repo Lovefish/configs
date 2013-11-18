@@ -8,7 +8,7 @@ bs      http://www.baidu.com/baidu?wd=site:%d%20%s      Search the current site 
 p       http://s01.51dl.pw/c.php?b=29&f=norefer&u=%r    Proxy the current URL
 
 @Ex
-my      http://www.google.com/search?q=site:http://mywife.cc/cont/%d%20%s
+my      http://www.google.com/search?q=site:http://mywife.cc/cont/%20%s
 
 @Quix
 qe      https://github.com/Lovefish/configs/edit/master/quix.txt
