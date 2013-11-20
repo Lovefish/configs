@@ -4,10 +4,9 @@
 >
 
 @Basic commands
-bs      http://www.baidu.com/baidu?wd=site:%d%20%s      Search the current site with Baidu
-p       http://proxurf.com/browse.php?b=13&f=norefer&u=%s    Proxy typed URL
-pp      http://proxurf.com/browse.php?b=13&f=norefer&u=%r    Proxy the current URL
-test    http://203.208.46.145
+bs      http://www.baidu.com/baidu?wd=site:%d%20%s            Search the current site with Baidu
+p       http://proxurf.com/browse.php?b=12&f=norefer&u=%s     Proxy typed URL
+pp      http://proxurf.com/browse.php?b=12&f=norefer&u=%r     Proxy the current URL
 
 @Ex
 mw      http://www.google.com/search?q=site:mywife.cc/cont/%20%s      Mywife.cc search
